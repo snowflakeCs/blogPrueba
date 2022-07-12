@@ -4,6 +4,14 @@ body
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
+#cabecera{
+background:rgb(223, 69, 95);
+color:white;
+font-size:30px;
+font-weight: bold;
+margin:0;
+padding: 0.5em;
+}
 #container{
 width: 70%;
 padding:1em;
@@ -13,4 +21,7 @@ margin:0 auto;
 }
 #container h1{
 font-size:20px;
+}
+#post{
+padding:1em;
 }
